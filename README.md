@@ -32,7 +32,6 @@ The system outputs a structured report for every run:
 4.  **Net Profit:** Total growth of capital after transaction fees.
 
 ## 🚀 Quick Start
-1. **Clone the repository:**
 Install dependencies:
 Bash
 
